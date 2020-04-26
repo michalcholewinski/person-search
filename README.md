@@ -18,5 +18,5 @@ Technologies used in project:
 ## Author
 **Michał Cholewiński**, Software Engineer  
 [cholewinskimichal.com](http://cholewinskimichal.com)    
-[Eager To IT](https://eagertoit.com)
+[Eager To IT](https://eagertoit.com)    
 [Codementor.pl](https://codementor.pl)
